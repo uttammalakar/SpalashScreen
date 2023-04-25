@@ -1,0 +1,3 @@
+# SpalashScreen
+full screen
+progressbar
